@@ -14,8 +14,6 @@ package main
 import (
 	"fmt"
 	"strings"
-
-
 )
 
 type Contacto struct {
